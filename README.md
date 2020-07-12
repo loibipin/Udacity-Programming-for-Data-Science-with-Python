@@ -1,5 +1,5 @@
 # Udacity-Programming-for-Data-Science-with-Python
-<img src="Images/Programming.jpg" width="1000">
+
 # Created by Bipin Loi
 This repository contains projects for Udacity Nanodegree - Programming for Data Science with Python
 
